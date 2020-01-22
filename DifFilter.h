@@ -13,4 +13,4 @@ class DifFilter : public LTIFilter
 {
 public:
 	DifFilter(float fs);
-}
+};
